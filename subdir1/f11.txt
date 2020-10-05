@@ -1,0 +1,4 @@
+f11 modified by B
+f11 modified by C, again C
+B resolved conflict with the content modified by C
+B added something
